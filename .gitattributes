@@ -1,0 +1,6 @@
+# GitHub dil istatistiği: üçüncü parti shader'ları sayma, böylece repo C# olarak görünür
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/Resources/Cainos/** linguist-vendored
